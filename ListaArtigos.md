@@ -1,2 +1,5 @@
 * Chen, Yang; Jabbarvand, Reyhaneh. "Can ChatGPT Repair Non-Order-Dependent Flaky Tests?", in Proceedings of the IEEE/ACM International Flaky Tests Workshop (FTW ’24), April 14, 2024, Lisbon, Portugal. ACM. doi: [10.1145/3643656.3643900](https://doi.org/10.1145/3643656.3643900)
+
 * Kang, Hong Jin; Aw, Khai Loong; Lo, David. "Detecting False Alarms from Automatic Static Analysis Tools: How Far are We?", na *Proceedings of the 44th International Conference on Software Engineering (ICSE ’22)*, maio de 2022, Pittsburgh, PA, EUA. ACM. doi: [10.1145/3510003.3510214](https://dl.acm.org/doi/abs/10.1145/3510003.3510214)
+
+* R. Clariso and J. Cabot, "Model-Driven Prompt Engineering," in 2023 ACM/IEEE 26th International Conference on Model Driven Engineering Languages and Systems (MODELS), Västerås, Sweden, 2023, pp. 47-54, doi: [10.1109/MODELS58315.2023.00020](https://doi.ieeecomputersociety.org/10.1109/MODELS58315.2023.00020).
