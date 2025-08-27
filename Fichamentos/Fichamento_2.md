@@ -1,6 +1,6 @@
 # Detecting False Alarms from Automatic Static Analysis Tools: How Far are We?
 
-Kang, Hong Jin; Aw, Khai Loong; Lo, David. "Detecting False Alarms from Automatic Static Analysis Tools: How Far are We?", na *Proceedings of the 44th International Conference on Software Engineering (ICSE ’22)*, maio de 2022, Pittsburgh, PA, EUA. ACM. doi: 10.1145/3510003.3510214 ([arxiv.org](https://arxiv.org/pdf/2202.05982?utm_source=chatgpt.com))
+Kang, Hong Jin; Aw, Khai Loong; Lo, David. "Detecting False Alarms from Automatic Static Analysis Tools: How Far are We?", na *Proceedings of the 44th International Conference on Software Engineering (ICSE ’22)*, maio de 2022, Pittsburgh, PA, EUA. ACM. doi: [10.1145/3510003.3510214](https://arxiv.org/pdf/2202.05982?utm_source=chatgpt.com)
 
 ---
 
