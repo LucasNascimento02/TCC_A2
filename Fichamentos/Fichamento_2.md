@@ -1,6 +1,6 @@
 # Detecting False Alarms from Automatic Static Analysis Tools: How Far are We?
 
-Kang, Hong Jin; Aw, Khai Loong; Lo, David. "Detecting False Alarms from Automatic Static Analysis Tools: How Far are We?", na *Proceedings of the 44th International Conference on Software Engineering (ICSE ’22)*, maio de 2022, Pittsburgh, PA, EUA. ACM. doi: [10.1145/3510003.3510214](https://arxiv.org/pdf/2202.05982?utm_source=chatgpt.com)
+Kang, Hong Jin; Aw, Khai Loong; Lo, David. "Detecting False Alarms from Automatic Static Analysis Tools: How Far are We?", na *Proceedings of the 44th International Conference on Software Engineering (ICSE ’22)*, maio de 2022, Pittsburgh, PA, EUA. ACM. doi: [10.1145/3510003.3510214](https://dl.acm.org/doi/abs/10.1145/3510003.3510214)
 
 ---
 
@@ -18,18 +18,18 @@ Essas descobertas demonstram que os resultados quase perfeitos relatados por est
 
 ## 2. Fichamento Bibliográfico
 
-* **Golden Features & ML para ASATs**: uso de métricas provenientes de código, histórico e padrões de avisos para predizer quais alertas são relevantes ou falsos positivos ([arxiv.org](https://arxiv.org/pdf/2202.05982?utm_source=chatgpt.com)).  
-* **Data Leakage**: problema onde o conjunto de treino “vaza” informações que correlacionam diretamente com o rótulo, levando a uma avaliação inflada ([arxiv.org](https://arxiv.org/pdf/2202.05982?utm_source=chatgpt.com)).  
-* **Data Duplication**: presença de exemplos duplicados nos conjuntos de treino e teste, prejudicando a avaliação realista de performance ([arxiv.org](https://arxiv.org/pdf/2202.05982?utm_source=chatgpt.com)).  
-* **Avisos como ground-truth problemático**: o uso heurístico de revisões futuras para rotular alertas pode gerar rótulos imprecisos, influenciando os resultados ([arxiv.org](https://arxiv.org/pdf/2202.05982?utm_source=chatgpt.com)).  
-* **Conclusão crítica**: a precisão elevada observada em métodos anteriores está superestimada devido a falhas metodológicas; recomenda-se cuidado e práticas mais robustas na construção de datasets e validação de modelos ML em ASATs ([arxiv.org](https://arxiv.org/pdf/2202.05982?utm_source=chatgpt.com)).
+* **Golden Features & ML para ASATs**: uso de métricas provenientes de código, histórico e padrões de avisos para predizer quais alertas são relevantes ou falsos positivos.  
+* **Data Leakage**: problema onde o conjunto de treino “vaza” informações que correlacionam diretamente com o rótulo, levando a uma avaliação inflada.  
+* **Data Duplication**: presença de exemplos duplicados nos conjuntos de treino e teste, prejudicando a avaliação realista de performance.  
+* **Avisos como ground-truth problemático**: o uso heurístico de revisões futuras para rotular alertas pode gerar rótulos imprecisos, influenciando os resultados.  
+* **Conclusão crítica**: a precisão elevada observada em métodos anteriores está superestimada devido a falhas metodológicas; recomenda-se cuidado e práticas mais robustas na construção de datasets e validação de modelos ML em ASATs.
 
 ---
 
 ## 3. Fichamento de Citações
 
-* “Automatic static analysis tools (ASATs), such as Findbugs, have a high false alarm rate. The large number of false alarms produced poses a barrier to adoption.” ([arxiv.org](https://arxiv.org/pdf/2202.05982?utm_source=chatgpt.com))  
-* “We found that several studies used an experimental procedure that results in data leakage and data duplication.” ([arxiv.org](https://arxiv.org/pdf/2202.05982?utm_source=chatgpt.com))  
-* “Firstly, the ground-truth labels have leaked into features that measure the proportion of actionable warnings in a given context.” ([arxiv.org](https://arxiv.org/pdf/2202.05982?utm_source=chatgpt.com))  
-* “Secondly, many warnings in the testing dataset appear in the training dataset.” ([arxiv.org](https://arxiv.org/pdf/2202.05982?utm_source=chatgpt.com))  
-* “The heuristic produces labels that do not agree with human oracles.” ([arxiv.org](https://arxiv.org/pdf/2202.05982?utm_source=chatgpt.com))  
+* “Automatic static analysis tools (ASATs), such as Findbugs, have a high false alarm rate. The large number of false alarms produced poses a barrier to adoption.”
+* “We found that several studies used an experimental procedure that results in data leakage and data duplication.”
+* “Firstly, the ground-truth labels have leaked into features that measure the proportion of actionable warnings in a given context.” 
+* “Secondly, many warnings in the testing dataset appear in the training dataset.”
+* “The heuristic produces labels that do not agree with human oracles.”
