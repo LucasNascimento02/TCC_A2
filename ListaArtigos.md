@@ -1,1 +1,1 @@
-* Chen, Yang; Jabbarvand, Reyhaneh. "Can ChatGPT Repair Non-Order-Dependent Flaky Tests?", in IEEE/ACM International Flaky Tests Workshop (FTW), April 14, 2024, Lisbon, Portugal. doi: [10.1145/ACM](https://dl.acm.org/doi/pdf/10.1145/3643656.3643900)
+* Chen, Yang; Jabbarvand, Reyhaneh. "Can ChatGPT Repair Non-Order-Dependent Flaky Tests?", in Proceedings of the IEEE/ACM International Flaky Tests Workshop (FTW ’24), April 14, 2024, Lisbon, Portugal. ACM. doi: [10.1145/3643656.3643900](https://doi.org/10.1145/3643656.3643900)
