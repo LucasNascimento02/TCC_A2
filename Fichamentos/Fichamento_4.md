@@ -12,7 +12,7 @@ Este artigo avalia empiricamente a capacidade de modelos de linguagem (LLMs) em 
 
 ## 2. Fichamento Bibliográfico
 
-* **Prompting na Summarização de Testes**: técnicas exploradas incluem few-shot, uso de persona, action words e chain-of-thought. 
+* **Prompting na Sumarização de Testes**: técnicas exploradas incluem few-shot, uso de persona, action words e chain-of-thought. 
 * **Modelos Avaliados**: GPT-3.5, GPT-4 e CodeLlama 7B.  
 * **Estudo com Desenvolvedores**: avaliação qualitativa feita por 11 desenvolvedores com experiência em Java. 
 * **Critérios de Avaliação**: completude, correção, concisão e naturalidade—pontuados com escala Likert. 
