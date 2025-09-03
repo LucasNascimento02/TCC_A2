@@ -20,6 +20,6 @@
 
 * Ryan, Gabriel; Jain, Siddhartha; Shang, Mingyue; Wang, Shiqi; Ma, Xiaofei; Ramanathan, Murali Krishna; Ray, Baishakhi. "Code-Aware Prompting: A Study of Coverage Guided Test Generation in Regression Setting Using LLM", February 2024. doi: [10.1145/3643769](https://doi.org/10.1145/3643769)
 
-* White, Jules; Fu, Quchen; Hays, Sam; Sandborn, Michael; Olea, Carlos; Gilbert, Henry; Elnashar, Ashraf; Spencer-Smith, Jesse; Schmidt, Douglas C. "A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT", arXiv preprint, February 2023. doi: [10.48550/arXiv.2302.11382](https://doi.org/10.48550/arXiv.2302.11382)
+* White, Jules; Fu, Quchen; Hays, Sam; Sandborn, Michael; Olea, Carlos; Gilbert, Henry; Elnashar, Ashraf; Spencer-Smith, Jesse; Schmidt, Douglas C. "A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT", February 2023. doi: [10.48550/arXiv.2302.11382](https://doi.org/10.48550/arXiv.2302.11382)
 
 * Shrivastava, Disha; Larochelle, Hugo; Tarlow, Daniel. "Repository-level Prompt Generation for Large Language Models of Code", in Proceedings of the 40th International Conference on Machine Learning (ICML 2023). doi: [10.48550/arXiv.2305.11269](https://doi.org/10.48550/arXiv.2305.11269)
