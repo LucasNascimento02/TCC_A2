@@ -1,6 +1,6 @@
 # Model-Driven Prompt Engineering
 
-*Clarisó, Robert; Cabot, Jordi.* Model-Driven Prompt Engineering. In: Proceedings of the ACM/IEEE 26th International Conference on Model-Driven Engineering Languages and Systems (MODELS ’23), 2023 ([modeling-languages.com](https://modeling-languages.com/wp-content/uploads/2023/08/model-driven-prompt-engineering.pdf?utm_source=chatgpt.com)).
+Clarisó, Robert; Cabot, Jordi. "Model-Driven Prompt Engineering", in Proceedings of the ACM/IEEE 26th International Conference on Model-Driven Engineering Languages and Systems (MODELS ’23), 2023 ([modeling-languages.com](https://modeling-languages.com/wp-content/uploads/2023/08/model-driven-prompt-engineering.pdf?utm_source=chatgpt.com)).
 
 ---
 
