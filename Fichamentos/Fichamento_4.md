@@ -6,7 +6,7 @@ Djajadi, Natanael; Deljouyi, Amirhossein; Zaidman, Andy. "Using Large Language M
 
 ## 1. Fichamento de Conteúdo
 
-Este artigo avalia empiricamente a capacidade de modelos de linguagem (LLMs) em sintetizar resumos de casos de teste que sejam ao mesmo tempo concisos e claros. Em um estudo de usuário com participantes que possuem experiência em Java, os autores compararam resumos gerados por LLMs—como GPT-3.5, GPT-4 e CodeLlama (7B)—com abordagens baseadas em templates, como TestDescriber e DeepTC-Enhancer. A avaliação abrangeu critérios como completude, correção, concisão e naturalidade. Os resultados indicam que resumos guiados por prompting (técnicas como few-shot, persona e chain-of-thought) são percebidos como mais naturais e igualmente informativos, apontando o potencial de LLMs para melhorar a compreensão de casos de teste. :contentReference[oaicite:1]{index=1}
+Este artigo avalia empiricamente a capacidade de modelos de linguagem (LLMs) em sintetizar resumos de casos de teste que sejam ao mesmo tempo concisos e claros. Em um estudo de usuário com participantes que possuem experiência em Java, os autores compararam resumos gerados por LLMs—como GPT-3.5, GPT-4 e CodeLlama (7B)—com abordagens baseadas em templates, como TestDescriber e DeepTC-Enhancer. A avaliação abrangeu critérios como completude, correção, concisão e naturalidade. Os resultados indicam que resumos guiados por prompting (técnicas como few-shot, persona e chain-of-thought) são percebidos como mais naturais e igualmente informativos, apontando o potencial de LLMs para melhorar a compreensão de casos de teste
 
 ---
 
