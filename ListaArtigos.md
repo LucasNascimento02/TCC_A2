@@ -23,3 +23,7 @@
 * White, Jules; Fu, Quchen; Hays, Sam; Sandborn, Michael; Olea, Carlos; Gilbert, Henry; Elnashar, Ashraf; Spencer-Smith, Jesse; Schmidt, Douglas C. "A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT", February 2023. doi: [10.48550/arXiv.2302.11382](https://doi.org/10.48550/arXiv.2302.11382)
 
 * Shrivastava, Disha; Larochelle, Hugo; Tarlow, Daniel. "Repository-level Prompt Generation for Large Language Models of Code", in Proceedings of the 40th International Conference on Machine Learning (ICML 2023). doi: [10.48550/arXiv.2305.11269](https://doi.org/10.48550/arXiv.2305.11269)
+
+* V. Pawar, M. Gawande, A. Kollu and A. S. Bile, "Exploring the Potential of Prompt Engineering: A Comprehensive Analysis of Interacting with Large Language Models",  in Proceedings of the 8th International Conference on Computing, Communication, Control and Automation (ICCUBEA), Pune, India, 2024, pp. 1-9, doi:[10.1109/ICCUBEA61740.2024.10775016](
+
+* A. Rozo-Torres and W. J. Sarmiento, "Prompt Engineering, Tools and Methods for Immersive Experience Development",in Proceedings of the IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), Orlando, FL, USA, 2024, pp. 125-132, doi: 10.1109/VRW62533.2024.00027.
