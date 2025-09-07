@@ -26,4 +26,4 @@
 
 * V. Pawar, M. Gawande, A. Kollu and A. S. Bile, "Exploring the Potential of Prompt Engineering: A Comprehensive Analysis of Interacting with Large Language Models",  in Proceedings of the 8th International Conference on Computing, Communication, Control and Automation (ICCUBEA), Pune, India, 2024, pp. 1-9, doi:[10.1109/ICCUBEA61740.2024.10775016](https://ieeexplore.ieee.org/document/10775016)
 
-* A. Rozo-Torres and W. J. Sarmiento, "Prompt Engineering, Tools and Methods for Immersive Experience Development",in Proceedings of the IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), Orlando, FL, USA, 2024, pp. 125-132, doi: [10.1109/VRW62533.2024.00027](https://ieeexplore.ieee.org/document/10536286).
+* A. Rozo-Torres and W. J. Sarmiento, "Prompt Engineering, Tools and Methods for Immersive Experience Development", in Proceedings of the IEEE Conference on Virtual Reality and 3D User Interfaces Abstracts and Workshops (VRW), Orlando, FL, USA, 2024, pp. 125-132, doi: [10.1109/VRW62533.2024.00027](https://ieeexplore.ieee.org/document/10536286).
