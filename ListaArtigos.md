@@ -18,7 +18,7 @@
 
 * Santana Jr, E. G.; Benjamin, Gabriel; Araujo, Melissa; Santos, Harrison; Freitas, David; Almeida, Eduardo; Neto, Paulo Anselmo da M. S.; Li, Jiawei; Chun, Jina; Ahmed, Iftekhar. "Which Prompting Technique Should I Use? An Empirical Investigation of Prompting Techniques for Software Engineering Tasks", 5 June 2025. doi: [10.48550/arXiv.2506.05614](https://doi.org/10.48550/arXiv.2506.05614)
 
-* Ryan, Gabriel; Jain, Siddhartha; Shang, Mingyue; Wang, Shiqi; Ma, Xiaofei; Ramanathan, Murali Krishna; Ray, Baishakhi. "Code-Aware Prompting: A Study of Coverage Guided Test Generation in Regression Setting Using LLM", February 2024. doi: [10.1145/3643769](https://doi.org/10.1145/3643769)
+* Ryan, Gabriel; Jain, Siddhartha; Shang, Mingyue; Wang, Shiqi; Ma, Xiaofei; Ramanathan, Murali Krishna; Ray, Baishakhi. "Code-Aware Prompting: A Study of Coverage Guided Test Generation in Regression Setting Using LLM", in Proceedings of the ACM on Software Engineering, Volume 1, Issue FSE, February 2024. doi: [10.1145/3643769](https://doi.org/10.1145/3643769)
 
 * White, Jules; Fu, Quchen; Hays, Sam; Sandborn, Michael; Olea, Carlos; Gilbert, Henry; Elnashar, Ashraf; Spencer-Smith, Jesse; Schmidt, Douglas C. "A Prompt Pattern Catalog to Enhance Prompt Engineering with ChatGPT", February 2023. doi: [10.48550/arXiv.2302.11382](https://doi.org/10.48550/arXiv.2302.11382)
 
